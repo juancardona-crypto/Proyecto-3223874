@@ -1,0 +1,17 @@
+{
+  "name": "ejercicios-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch ejercicios.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
